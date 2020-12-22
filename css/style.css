@@ -139,7 +139,7 @@ i:before {
 }
 
 .l_title {
-  padding-bottom: 55px;
+  padding-bottom: 0px;
 }
 
 .l_title img {
@@ -302,7 +302,7 @@ i:before {
 }
 
 .main_menu_area .navbar .navbar-nav li:hover a, .main_menu_area .navbar .navbar-nav li.active a {
-  color: #0b1033;
+  color: white;
 }
 
 .main_menu_area.navbar_fixed {
@@ -1488,7 +1488,7 @@ i:before {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   display: block;
-  padding: 50px 0px 20px 0px;
+  padding: 30px 0px 20px 0px;
 }
 
 .touch_details h4 {
@@ -2398,7 +2398,7 @@ i:before {
 
 .footer_copyright .float-sm-left h5 {
   font-size: 14px;
-  color: #2a2f56;
+  color: white;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -2412,7 +2412,7 @@ i:before {
 
 .footer_copyright .float-sm-right ul li a {
   font-size: 14px;
-  color: #2a2f56;
+  color: white;
   -webkit-transition: all 400ms linear 0s;
   -o-transition: all 400ms linear 0s;
   transition: all 400ms linear 0s;

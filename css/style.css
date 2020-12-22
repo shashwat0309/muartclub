@@ -192,7 +192,7 @@ i:before {
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #fff;
+  color: black;
   letter-spacing: .65px;
   padding: 0px;
   line-height: 118px;
@@ -218,13 +218,13 @@ i:before {
     -ms-transform-origin: 50% 0;
     transform-origin: 50% 0;
     min-width: 250px;
-    background: #171717;
+    background: white;
     left: auto;
     right: 0px;
     top: 90%;
-    border-radius: 0px;
+    border-radius: 10px;
     border: none;
-    padding: 30px 0px 30px 0px;
+    padding: 20px 0px 20px 0px;
     -webkit-box-shadow: none;
     box-shadow: none;
     visibility: hidden;
@@ -239,7 +239,7 @@ i:before {
 .main_menu_area .navbar .navbar-nav li.submenu .dropdown-menu li a {
   display: block;
   line-height: 38px;
-  color: #fff;
+  color: black;
   font-family: "Roboto", sans-serif;
   letter-spacing: .48px;
   font-size: 16px;
@@ -266,7 +266,7 @@ i:before {
 }
 
 .main_menu_area .navbar .navbar-nav li:hover a, .main_menu_area .navbar .navbar-nav li.active a {
-  color: white;
+  color: black;
 }
 
 .main_menu_area.navbar_fixed {
@@ -275,7 +275,7 @@ i:before {
   top: -70px;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(255, 254, 254, 0.7);
   -webkit-transform: translateY(70px);
   -ms-transform: translateY(70px);
   transform: translateY(70px);

@@ -430,8 +430,7 @@ i:before {
 ============================================================================================ */
 .testimonials_area {
   padding-top: 190px;
-  padding-bottom: 130px;
-  border-bottom: 1px solid #bbbec1;
+  padding-bottom: 50px;
 }
 
 .testimonials_slider {
@@ -853,6 +852,7 @@ i:before {
   background-image: -ms-linear-gradient(10deg, #6ebdfe 0%, #9b8aff 100%);
   padding: 160px 0px 170px 0px;
   border-bottom: 2px solid #fff;
+  border-radius: 10%;
 }
 
 .talk_text {

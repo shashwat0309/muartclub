@@ -309,7 +309,7 @@ i:before {
   background: url(../img/banner/banner-bg.png) no-repeat scroll center right;
   position: absolute;
   right: 0px;
-  top: 0px;
+  top: -3px;
   height: 100%;
   max-width: 1233px;
   width: 100%;
@@ -798,7 +798,7 @@ i:before {
   line-height: 28px;
   color: #7c8d93;
   font-weight: 500;
-  padding-bottom: 70px;
+  padding-bottom: 20px;
 }
 
 .our_skill_inner .single_skill {
@@ -1138,7 +1138,7 @@ i:before {
 }
 
 .shap_slider_inner .item p {
-  font-size: 15px;
+  font-size: 19px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 28px;

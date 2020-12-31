@@ -1751,10 +1751,13 @@ i:before {
 
 .ms_portfolio_inner .ms_p_item {
   float: left;
+
 }
 
 .ms_portfolio_inner .ms_p_item img {
   width: 100%;
+  padding: 2%;
+  
 }
 
 /* End Portfolio Area css
